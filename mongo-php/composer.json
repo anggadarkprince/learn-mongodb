@@ -1,0 +1,13 @@
+{
+    "name": "angga/mongo",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Angga Ari Wijaya",
+            "email": "anggadarkprince@gmail.com"
+        }
+    ],
+    "require": {
+        "mongodb/mongodb": "^1.2"
+    }
+}

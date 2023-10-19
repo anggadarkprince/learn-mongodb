@@ -1,0 +1,5 @@
+db.dropDatabase()
+db.getName()
+db.hostInfo()
+db.version()
+db.stats()
